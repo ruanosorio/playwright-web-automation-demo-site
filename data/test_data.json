@@ -1,0 +1,25 @@
+{
+  "usuario_cadastro": {
+    "first_name": "Teste",
+    "last_name": "Automacao",
+    "address": "Rua dos Testes, 123",
+    "email": "teste.automacao@example.com",
+    "phone": "0123456789",
+    "gender": "Male",
+    "hobbies": ["Cricket", "Movies"],
+    "languages": ["English"],
+    "skill": "Analytics",
+    "country": "Brazil",
+    "dob": {
+      "year": "1990",
+      "month": "January",
+      "day": "15"
+    },
+    "password": "Senha@123",
+    "confirm_password": "Senha@123"
+  },
+  "usuario_edicao": {
+    "last_name": "Automatizado",
+    "phone": "0123456789"
+  }
+}
