@@ -1,6 +1,6 @@
-# Projeto de automação de testes web com Playwright + Cucumber (BDD)
+# Projeto de automação de testes web com Playwright + Python
 
-Projeto de automação de testes web com Playwright + Cucumber (BDD), este projeto utiliza TypeScript.
+Projeto de automação de testes web com Playwright, este projeto utiliza Python.
 
 ## Pré-requisitos
 
